@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listacompras SYSTEM "ListaCompras.dtd">
+<listacompras>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>22/10/2020</fechafinpago>
+            <cantidad>210</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>98</cantidad>
+            <divisa>dolar</divisa>
+        </ventainmediata>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>29</cantidad>
+        </ventaacredito>
+    </venta>
+</listacompras>
